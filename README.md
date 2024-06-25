@@ -13,12 +13,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="otto-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg">
-  <img align="center" alt="otto-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg">
-  <img align="center" alt="otto-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg">
-  <img align="center" alt="otto-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg">
-  <img align="center" alt="otto-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="otto-androidstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="otto-intellij" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg">
+  <img align="center" alt="otto-html5" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img align="center" alt="otto-css3" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img align="center" alt="otto-javaScript" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img align="center" alt="otto-python" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+  <img align="center" alt="otto-androidstudio" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AndroidStudio-Dark.svg">
   <img align="center" alt="otto-sqldeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg">
 
 </div>
