@@ -1,4 +1,4 @@
-## Olá, me chamo Otto Balieiro, aspirante a programador.
+## Olá, me chamo Otto Balieiro, entrando no ramo da programação.
 
 
 
