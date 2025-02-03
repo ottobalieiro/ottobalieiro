@@ -1,4 +1,4 @@
-## Oi, me chamo Otto Balieiro e sou um programador iniciante.
+## Oi, me chamo Otto e sou um programador iniciante.
 
 
 
